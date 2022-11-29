@@ -15,7 +15,7 @@ Features Contained Within the Application:
   Persistence & Performance:
   1. Newly processed values are added to file & cache storage, only if the respective storages dont already contain the values already.
   2. Newly added values are appended to file storage.
-  3. Input values are checks against cache storage before being processed by application if necessary.
+  3. Input values are checks against cache storage before being processed by application logic, if necessary.
   
   Maintainabilty & Supportability 
   1. Test Suites have been added for the following classes (11 Tests Total):
