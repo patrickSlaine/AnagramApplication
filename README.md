@@ -1,6 +1,7 @@
 # AnagramApplication
 
 This Git Repository Contains Patrick Slaine's Anagram Application
+Written using C#
 
 Assumptions Made:
 1. The input values can be uppercase and lowercase. For instance, (A & a) when compared should be treated as equal.
